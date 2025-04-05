@@ -71,7 +71,6 @@ class ViewController: UIViewController {
         }
         
         task.resume()
-        // video stopped at 1:04:21
         // Show the right image
     }
     
